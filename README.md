@@ -109,16 +109,20 @@ public class MainActivity extends AppCompatActivity {
 
 ## OUTPUT
 
-<img width="1920" height="1080" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/914a1284-ecb8-4902-9c2f-2d3e0cf9cd25" />
+<img width="792" height="442" alt="Screenshot 2026-11-01 191616" src="https://github.com/user-attachments/assets/5ac1dba8-30d7-467f-9331-3e68d10f850d" />
 
-<img width="1920" height="1080" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/88847259-84ad-4604-9ea1-25dbe676ab95" />
 
-<img width="1920" height="1080" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/7803921a-4f35-403e-8eca-cbb20c19138a" />
+<img width="792" height="439" alt="Screenshot 2026-11-01 191638" src="https://github.com/user-attachments/assets/977523b5-68c9-41ee-862e-4c9b373ffde8" />
 
-<img width="1920" height="1080" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/e08fc4cd-7f7b-4021-9b1a-298c5477d624" />
 
-<img width="959" height="539" alt="Screenshot 2026-11-01 182707" src="https://github.com/user-attachments/assets/a2ce20c0-67ec-4ab0-9785-90ba3c547766" />
+<img width="793" height="440" alt="Screenshot 2026-11-01 191655" src="https://github.com/user-attachments/assets/d8c79abd-1804-4a7d-8a3b-e87aad973c44" />
 
+
+<img width="791" height="443" alt="Screenshot 2026-11-01 191710" src="https://github.com/user-attachments/assets/95021d2d-f177-44e2-a77e-689e31924798" />
+
+
+
+<img width="794" height="445" alt="Screenshot 2026-11-01 191725" src="https://github.com/user-attachments/assets/68ea48cb-e66a-40d5-a40f-8844ea206ade" />
 
 
 
